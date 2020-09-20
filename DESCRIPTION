@@ -1,0 +1,14 @@
+Package: wgcnaPipeline
+Type: Package
+Title: Exploit GEO dataset to carry out WGCNA and Enrichment analysis
+        step by step.
+Version: 0.1.0
+Author: dming1024
+Maintainer: Dming1024<3453705015@qq.com>
+Description: Using Gene expression data in GEO database with clinical traits to 
+    figure out the co-expression network associated with the initiation and development of diseases.
+License: GPL-2
+Encoding: UTF-8
+LazyData: false
+NeedsCompilation: no
+Packaged: 2020-09-16 09:11:01 UTC; fan_qiangqiang
